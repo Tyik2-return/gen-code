@@ -1,0 +1,3 @@
+﻿  gen code.cpp
+D:\учеба\ООП\gen code\gen code.cpp(128,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  gen code.vcxproj -> D:\учеба\ООП\gen code\x64\Debug\gen code.exe
